@@ -206,7 +206,3 @@ tk.Label(master, text="SGPA").grid(row=8, column=3)
 master.mainloop()
 
 
-# This Marksheet can be snapshotted and printed out
-# as a report card for the semester
-
-# This code has been contributed by Soumi Bardhan
